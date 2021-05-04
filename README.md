@@ -30,3 +30,39 @@ Several questions will be addressed:
 4. Is appointment scheduling administered properly?
 	
 Main dependent variable is appointment status 'No-Show’; rest will be the independent ones.
+
+## Conclusion
+
+1. Females and Senior age group have higher attendance frequency than others
+	
+2. Youth age group most likely will skip their medical appointments
+	
+3. Enrolment in Bolsa Familia program, hypertension and diabetes medical conditions are common characteristics of patients with higher attendance frequency
+	
+4. Seniors and adults age group shows a slight improvement in attendance frequency with shorter lead times.
+
+5. No preference for specific weekday over the other when it comes to attendance frequency.
+
+
+## Appointment administration improvement opportunities 
+
+1. Spread appointments across months and weekdays regardless of weekends.
+
+2. Avoid scheduling multiple appointments in the same day for a single patient. Unless there is a need to.
+
+3. Follow a systematic approach when sending reminders to patients and consider increasing the frequency and/or methods of reminders while closely monitoring the associated costs of doing so.
+	
+
+## Limitations
+	
+- How was the appointment scheduled is not clear.
+	
+- Sufficient details about appointments are not provided (Type, employee ID, physician, venue, etc…).
+	
+- Medical history of children has some unusual entries like alcoholism. I did not disregard this.
+	
+- Count and timing of sms reminders are not provided
+	
+- I assumed age of 0 relates to newborns and not data entry error
+
+- Appointment administration and related data anomalies can lead to different interpretations if proved to be valid, actually it casts doubts on the integrity of the whole dataset.
