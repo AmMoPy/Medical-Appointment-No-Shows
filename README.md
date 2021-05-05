@@ -2,7 +2,7 @@
 
 Why do 30% of patients miss their scheduled appointments?
 
-The dataset includes medical appointment status as well as some patient details of Brazilian families; I'd be interested in investigating the reason why some patients do not show up to their scheduled appointments and whether there are opportunities for improvement in appointment administration that would result in a higher attendance frequency.
+This is an EDA for a dataset that includes medical appointment status as well as some patient details of Brazilian families; I'd be interested in investigating the reason why some patients do not show up to their scheduled appointments and whether there are opportunities for improvement in appointment administration that would result in a higher attendance frequency.
 
 The dataset consists of 14 variables as follows:
 
