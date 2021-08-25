@@ -10,4 +10,4 @@ Generally, for easy classification problems in which there's a clear separation 
 
 If you are a machine learning researcher and can do better than the current model for this particular dataset, I'd like to hear from you.
 
-Notebook is also available @ [Kaggle's](https://www.kaggle.com/amrmuhammad/no-shows-eda-and-predictions-who-s-to-blame).
+Notebook is also available @ [Kaggle](https://www.kaggle.com/amrmuhammad/no-shows-eda-and-predictions-who-s-to-blame).
