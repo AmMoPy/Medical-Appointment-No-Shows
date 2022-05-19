@@ -1,6 +1,6 @@
 Why do patients miss their scheduled appointments?
 
-This is an EDA and prediction modeling for a dataset that includes medical appointment status as well as some details of Brazilian patients. We will be  investigating the reason why some patients do not show up to their scheduled appointments and building predictive models using different classification methods and approaches while displaying a structured work flow of an imbalanced binary classification problem but with a twist! 
+We will be investigating the reason why some patients do not show up to their scheduled appointments and building predictive models using different classification methods and approaches while displaying a structured work flow of an imbalanced binary classification problem but with a twist! 
 
 We'll also cover many topics that are important to be aware of going through a classification problem, I came across these topics during my efforts to improve my first classification attempt going through different research papers, books, blogs and other notebooks; I wanted to make this notebook as a collective reference for such topics and at the same time provide links to external sources that I've found to be very informative and well presented.
 
