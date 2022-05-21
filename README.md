@@ -12,6 +12,4 @@ The three main sections below are sorted chronologically:
 - Predictions (1st attempt)
 - Updates
 
-If you are short on time, just read the updates section!
-
-Notebook is also available @ [Kaggle](https://www.kaggle.com/amrmuhammad/no-shows-eda-and-predictions-who-s-to-blame).
+This notebook holds the updates section only, you can find the complete notebook @ [Kaggle](https://www.kaggle.com/amrmuhammad/no-shows-eda-and-predictions-who-s-to-blame).
